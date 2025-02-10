@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import AppBar from "../components/AppBar";
 import { getBlog } from "../hooks/getBlog";
-import { GetBlogSkeleton } from "../skeletons/getBLogSkeleton";
+import { GetBlogSkeleton } from "../skeletons/GetBLogSkeleton";
 import { SingleBlog } from "../components/SingleBlog";
 
 function Blog() {
@@ -15,7 +15,7 @@ function Blog() {
       title: "",
       content: "",
       publishedDate: new Date(),
-      postid: "",
+      id: "",
     },
   } = getBlog(params.blogId || "");
 
