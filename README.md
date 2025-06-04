@@ -4,7 +4,7 @@ This is a Medium-like blogging platform built with React, TypeScript, and a serv
 
 ## 🚀 Live Demo
 Check out the live version of the application here:  
-👉 [Medium Clone](https://medium-l8mcjnv66-sunny-jains-projects-b60ebf64.vercel.app/blogs)
+👉 [Medium Clone](https://medium-l8mcjnv66-sunny-jains-projects-b60ebf64.vercel.app/)
 
 ## 🛠 Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS  
